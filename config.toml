@@ -26,12 +26,20 @@ pygmentsUseClasses = true
     title = "about"
     url = "/about/"
     weight = 20
+  
   [[menu.main]]
-   identifier = "Contact"
-   name = "contact"
-   title = "contact"
-   url = "/contact/"
-   weight = "30"
+    identifier = "skills"
+    name = "skills"
+    title = "skills"
+    url = "/skills/"
+    weight = 30
+
+  [[menu.main]]
+    identifier = "Contact"
+    name = "contact"
+    title = "contact"
+    url = "/contact/"
+    weight = "40"
 
 [permalinks]
   posts = "/:title/"

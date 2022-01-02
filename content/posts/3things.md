@@ -1,7 +1,6 @@
 ---
 title: "3 Things I've Learned While Learning to Code"
 date: 2021-11-14
-draft: false
 ---
 
 # TLDR; You’re not dumb, write lots of code, and it’s ok to use DuckDuckGo.
