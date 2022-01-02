@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Hi, I&#39;m Kev.</title>
+    <link>https://juuke.co/categories/</link>
+    <description>Recent content in Categories on Hi, I&#39;m Kev.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    
+	<atom:link href="https://juuke.co/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    <item>
+      <title>Here&#39;s another post about switching from macOS to Linux.</title>
+      <link>https://juuke.co/heres-another-post-about-switching-from-macos-to-linux./</link>
+      <pubDate>Fri, 03 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://juuke.co/heres-another-post-about-switching-from-macos-to-linux./</guid>
+      <description>&lt;h1 id=&#34;heres-another-post-about-switching-from-macos-to-linux&#34;&gt;Here&amp;rsquo;s another post about switching from macOS to Linux&lt;/h1&gt;
+&lt;p&gt;I&amp;rsquo;ll be breif. I switched from macOS &amp;gt; Pop OS. I&amp;rsquo;m writing this to share some of the tools I use in Pop OS (replacements for things missing from my macOS workflow) – just in case someone finds them helpful. :)&lt;/p&gt;
+&lt;h2 id=&#34;rsyncnet&#34;&gt;Rsync.net&lt;/h2&gt;
+&lt;p&gt;All of my documents used to be in iCloud. I&amp;rsquo;m happy to say that it didn&amp;rsquo;t take a lot of work to integrate rsync.net into my workflow. All I need to do is rsync a folder between my computers. It works regardless of the installed OS.&lt;/p&gt;
+&lt;h2 id=&#34;ifuse&#34;&gt;ifuse&lt;/h2&gt;
+&lt;p&gt;This is needed to get photos off of my iPhone. I wish it were easier, but addressing that is above my paygrade at this time. If you know of a better solution, please let me know!&lt;/p&gt;
+&lt;h2 id=&#34;espanso&#34;&gt;Espanso&lt;/h2&gt;
+&lt;p&gt;I was a pretty heavy user of Apple&amp;rsquo;s built in text-replacement feature. Espanso is a great alternative. An added bonus is that it&amp;rsquo;s easy to keep snippets in sync between several devices.&lt;/p&gt;
+&lt;h2 id=&#34;copyq&#34;&gt;CopyQ&lt;/h2&gt;
+&lt;p&gt;Alfred has a great clipboard manager built in. I haven&amp;rsquo;t found anything close to as useful as Alfred on Linux. But for a clipboard manager, CopyQ is splendid.&lt;/p&gt;
+&lt;h2 id=&#34;pop-os-keyboard-shortcuts&#34;&gt;Pop OS keyboard shortcuts&lt;/h2&gt;
+&lt;p&gt;I really like Pop OS&#39; built in window tiling features. Sure it&amp;rsquo;s not something unique to Pop OS, but there&amp;rsquo;s 0 configuration required to enable it – just flip the switch on. Tiled windows, paired with the default workspace / window navigation shortcuts, are enjoyable.&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>3 Things I&#39;ve Learned While Learning to Code</title>
+      <link>https://juuke.co/3-things-ive-learned-while-learning-to-code/</link>
+      <pubDate>Sun, 14 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://juuke.co/3-things-ive-learned-while-learning-to-code/</guid>
+      <description>&lt;h1 id=&#34;tldr-youre-not-dumb-write-lots-of-code-and-its-ok-to-use-duckduckgo&#34;&gt;TLDR; You’re not dumb, write lots of code, and it’s ok to use DuckDuckGo.&lt;/h1&gt;
+&lt;p&gt;Software is an incredible thing. We walk around with a tiny screen in our pockets that gives us unlimited access to a virtually unlimited repository of knowledge. All thanks to millions of lines of code cranking away in cyberspace. It’s no wonder why so many people are infatuated with the creative process of writing code, a skill that is not easily obtained. It takes years of practice to hone the expertise needed to write and maintain elegant, efficient, and secure code — a journey I started a little over half a year ago.&lt;/p&gt;
+&lt;p&gt;I’ve had some long, frustrating nights since I started to code. I’ve hit walls hard enough to ask myself questions like “do I really want to do this?” or “will I ever be able to spend more time writing code than reading Stack Overflow posts?”&lt;/p&gt;
+&lt;p&gt;The answer to those questions are yes, and yes. The journey to becoming a developer is a long and bumpy one, but anyone can do it.&lt;/p&gt;
+&lt;p&gt;As a little motivation to anyone who is starting to walk this long path, here are three things I wish I had front of mind when I started my own adventure.&lt;/p&gt;
+&lt;h1 id=&#34;no-youre-not-dumb&#34;&gt;No, you’re not dumb&lt;/h1&gt;
+&lt;p&gt;Last month, I was writing a little Ruby module to verify user credentials. I kept getting an undefinedmethod error. I was STUMPED. Long story short, I had named a method authemticateuser instead of authenticateuser. Since I was trying to use authenticateuser, the Ruby compiler — due to my spelling mistake 🤦 — had no idea what I was talking about!&lt;/p&gt;
+&lt;p&gt;There is a lot to learn my friend and, remember, people learn at different paces. Don’t get discouraged when you hit a wall. Or worse: squash a bug, realize how simple the issue was, and then begin to doubt your ability to progress. Keep learning, keep improving. Even if it’s just 1% a day. Soon, you’ll blink and be laughing about the days where you got stuck authemticating users.&lt;/p&gt;
+&lt;h1 id=&#34;spend-more-time-drawing-instead-sharpening-your-pencil&#34;&gt;Spend more time drawing instead sharpening your pencil&lt;/h1&gt;
+&lt;p&gt;Remember why you started – did you want to start a business, switch careers, or maybe automate some of your work tasks? Whatever the reason, regardless of the tools you use, you still need the skills to write the code. There isn’t a vim configuration in the universe that will boost your skills, so pick something and start breaking stuff!&lt;/p&gt;
+&lt;p&gt;Pick an editor, pick a learning resource, and stay disciplined. Seriously, stick. with. your. readings/videos/book 100% of the way through. Don’t bounce around from book to book without finishing and understanding all — or at very least most — of the material. Write a lot of code and be consistent with your studies. This will be one of the main factors that pushes you from tutorial junkie to Jr. developer.&lt;/p&gt;
+&lt;p&gt;Over the past few weeks, I’ve taken a break from the video series I’m watching and I’ve been writing my own code. I’ve probably learned 2x as much as I have in the past week than I have in the past two months just by branching out from tutorials.&lt;/p&gt;
+&lt;p&gt;“Talk is cheap. Show me the code.”&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;– Linus Torvalds
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h1 id=&#34;search-engines-are-your-friend&#34;&gt;Search Engines are Your Friend&lt;/h1&gt;
+&lt;p&gt;The tech industry changes often and it changes fast. Even if there is a 10x engineer out there with a photographic memory that only needs to read documentation once before they’re a master, they still had to read it! Which means they had to pop open their browser and search the web for some kind of tutorial or documentation.&lt;/p&gt;
+&lt;p&gt;Don’t discourage yourself if you need to search for something you believe to be trivial, especially while you’re learning. We all started with the same amount of knowledge: none. In fact, being able to efficiently search for and implement solutions is a critical skill to have as a developer. You’re building some serious google-fu skills. One day, they might save your life (or save you hours of banging your head against your keyboard, either would be good).&lt;/p&gt;
+&lt;p&gt;That being said, spinning your wheels is not always a bad thing. Let yourself get stuck, it’s great to do while there is no pressure. Ponder the task at hand and take a little break. Go grab some coffee or water, maybe some fresh air and let your mind wander for a bit. Then, come back and look at the problem with a fresh set of eyes. I can not tell you the number of times I’ve come back to my keyboard and kicked myself in the butt for not getting to the answer sooner.&lt;/p&gt;
+&lt;p&gt;“Programming isn’t about what you know; it’s about what you can figure out. As long as you know where to find out the things you forgot, your doing just fine.”&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Quoted tweet by Chris Pine&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Continuous learning is one of the keys to happiness. We’re designed to learn. Give programming a shot, you just might fall in love with it :)&lt;/p&gt;
+</description>
+    </item>
+    
+    
+    
+    
+    
+    
+    
+    
+  </channel>
+</rss>
