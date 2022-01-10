@@ -6,7 +6,7 @@
 
 **Languages | Tools | OS:** 
 - Python, JavaScript, and a little Go
-- git, Xcode, Sketch, Gitlab/Github, Netlify,
+- git, Xcode, Sketch, Gitlab/Github, Netlify
 - Linux, macOS, Windows
 
 **Administrative:** 

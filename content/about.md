@@ -2,7 +2,7 @@
 
 📚 I'm currently reading Fooled by Randomness by Nassim Nicholas Taleb. If you're interested, [here](https://workflowy.com/s/books/dFIMWMcGXjlrT3Q5) are some other book recommendations.
 
-🙆 My biggest hobbies are gaming, coffee, and most recently video editing.
+🙆 My biggest hobbies are gaming, coffee, and most recently JavaScript.
 
 🖥 I love programming and design, and deeply appreciate beauty and simplicity in the two.
 
