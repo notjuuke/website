@@ -1,6 +1,7 @@
 ---
 title: "How I Learned to Love Reading Again"
-date: 2022-01-02
+date: 2023-01-02
+draft: true
 ---
 
 I read a lot as a kid. I used to be able to sit down and read an entire novel in one sitting. Until recently, I was lucky if I could sit still enough to make it through a 10 minute reading session. I got stressed and anxious when I started to read, and I sure as hell couldn't get into the same "groove" that I did when I was younger. In short, the fault is mine - I've been chipping away at my ability to focus for years now, but I digress.
