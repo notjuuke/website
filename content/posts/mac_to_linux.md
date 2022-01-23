@@ -3,8 +3,6 @@ title: "Here's another post about switching from macOS to Linux."
 date: 2021-12-03
 ---
 
-# Here's another post about switching from macOS to Linux
-
 I'll be breif. I switched from macOS > Pop OS. I'm writing this to share some of the tools I use in Pop OS (replacements for things missing from my macOS workflow) – just in case someone finds them helpful. :)
 
 ## [Rsync.net](https://rsync.net)
