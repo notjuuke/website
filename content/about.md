@@ -2,7 +2,7 @@
 
 📚 I'm currently reading _The Tipping Point_ by Malcolm Gladwell. If you're interested, [here](https://workflowy.com/s/books/dFIMWMcGXjlrT3Q5) are some other book recommendations.
 
-🙆 My biggest hobbies are gaming, coffee, and most recently JavaScript.
+🙆 My biggest hobbies are reading, coffee/tea, and most recently [Data Analytics](https://www.dataquest.io/path/data-analyst/)
 
 🖥 I love programming and design, and deeply appreciate beauty and simplicity in the two.
 
