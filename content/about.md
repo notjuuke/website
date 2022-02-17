@@ -1,6 +1,6 @@
 👋 Hi, I'm Kev. A complex person who enjoys simple things.
 
-📚 I'm currently reading Fooled by Randomness by Nassim Nicholas Taleb. If you're interested, [here](https://workflowy.com/s/books/dFIMWMcGXjlrT3Q5) are some other book recommendations.
+📚 I'm currently reading _The Tipping Point_ by Malcolm Gladwell. If you're interested, [here](https://workflowy.com/s/books/dFIMWMcGXjlrT3Q5) are some other book recommendations.
 
 🙆 My biggest hobbies are gaming, coffee, and most recently JavaScript.
 
