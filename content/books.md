@@ -18,6 +18,8 @@
 - Brave New World by Aldous Huxley
 - Sapiens by Yuval Noah Harari
 - Code by Charles Petzold
+- Winter Pasture by Li Juan
+- The Hobbit by J.R.R Tolkien
 
 ## Technical
 - The Docker Book by James Turnbull
