@@ -1,6 +1,6 @@
 👋 Hi, I'm Kev. A complex person who enjoys simple things.
 
-📚 I'm currently reading _The Art of Being_ by Erich Fromm. If you're interested, [here](https://workflowy.com/s/books/dFIMWMcGXjlrT3Q5) are some other book recommendations.
+📚 I'm currently reading _Reader, Come Home_ by Maryanne Wolf. If you're interested, [here](/books) are some other book recommendations.
 
 🙆 My biggest hobbies are reading, coffee/tea, and most recently network security.
 
