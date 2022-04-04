@@ -8,7 +8,7 @@ pygmentsUseClasses = true
 
 [params]
   description = ""
-  copyright = "Copyright © 2021 KC"
+  copyright = ""
   dark = "auto"
   highlight = true
 
