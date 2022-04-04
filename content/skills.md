@@ -19,7 +19,7 @@
 	- AirWatch 
 	- FileWave 
 - Collaboration:
-	-GSuite 
+        - GSuite 
 	- 365
 - Ticketing: 
 	- FreshDesk
