@@ -7,8 +7,6 @@
 - The Pragmatic Programmer by David Thomas + Andrew Hunt
 - Ten Arguments for Deleting Your Social Media Right Now by Jaron Lanier
 - Atomic Habits by James Clear
-- Hackers & Painters by Paul Graham
-- Fooled by Randomness by Nassim Nicholas Taleb
 
 ## For fun
 - I Hope You Get This Message by Farah Naz Rishi
@@ -20,6 +18,9 @@
 - Code by Charles Petzold
 - Winter Pasture by Li Juan
 - The Hobbit by J.R.R Tolkien
+- Hackers & Painters by Paul Graham
+- Fooled by Randomness by Nassim Nicholas Taleb
+- Reader, Come Home by Maryanne Wolf
 
 ## Technical
 - The Docker Book by James Turnbull
