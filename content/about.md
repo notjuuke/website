@@ -1,6 +1,6 @@
 👋 Hi, I'm Kev. A complex person who enjoys simple things.
 
-📚 I'm currently reading _The House in The Cerulean Sea_ by TJ Klune. If you're interested, [here](/books) are some other book recommendations.
+📚 I'm currently reading _The Fellowship of the Ring_ by J.R.R. Tolkien. If you're interested, [here](/books) are some other book recommendations.
 
 🙆 My biggest hobbies are reading, coffee/tea, and most recently network security.
 

@@ -21,6 +21,7 @@
 - Hackers & Painters by Paul Graham
 - Fooled by Randomness by Nassim Nicholas Taleb
 - Reader, Come Home by Maryanne Wolf
+- The House in the Cerulean Sea by TJ Klune
 
 ## Technical
 - The Docker Book by James Turnbull
