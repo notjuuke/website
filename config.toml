@@ -13,33 +13,35 @@ pygmentsUseClasses = true
   highlight = true
 
 [menu]
-  [[menu.main]]
-    identifier = "posts"
-    name = "posts"
-    title = "posts"
-    url = "/"
-    weight = 10
-
-  [[menu.main]]
-    identifier = "about"
-    name = "about"
-    title = "about"
-    url = "/about/"
-    weight = 20
-  
-  [[menu.main]]
-    identifier = "skills"
-    name = "skills"
-    title = "skills"
-    url = "/skills/"
-    weight = 30
-
-  [[menu.main]]
-    identifier = "Contact"
-    name = "contact"
-    title = "contact"
-    url = "/contact/"
-    weight = "40"
+    [[menu.main]]
+        identifier = "about"
+        name = "about"
+        title = "about"
+        url = "/about/"
+        weight = 10
+    [[menu.main]]
+        identifier = "books"
+        name = "books"
+        url = "/books/"
+        weight = 20
+    [[menu.main]]
+        identifier = "posts"
+        name = "posts"
+        title = "posts"
+        url = "/"
+        weight = 30
+    [[menu.main]]
+        identifier = "skills"
+        name = "skills"
+        title = "skills"
+        url = "/skills/"
+        weight = 40
+    [[menu.main]]
+        identifier = "Contact"
+        name = "contact"
+        title = "contact"
+        url = "/contact/"
+        weight = 40
 
 [permalinks]
   posts = "/:title/"
