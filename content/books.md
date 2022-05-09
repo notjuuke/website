@@ -22,6 +22,7 @@
 - Fooled by Randomness by Nassim Nicholas Taleb
 - Reader, Come Home by Maryanne Wolf
 - The House in the Cerulean Sea by TJ Klune
+- Fewer, better Things by Glenn Adamson
 
 ## Technical
 - The Docker Book by James Turnbull

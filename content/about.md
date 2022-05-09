@@ -1,6 +1,6 @@
 👋 Hi, I'm Kev. A complex person who enjoys simple things.
 
-📚 I'm currently reading _Fewer, better Things_ by Glenn Adamson. If you're interested, [here](/books) are some other book recommendations.
+📚 I'm currently reading _party of one, The Loner's Manifesto_ by Anneli Rufus. If you're interested, [here](/books) are some other book recommendations.
 
 🙆 My biggest hobbies are reading, coffee/tea, and most recently network security.
 
