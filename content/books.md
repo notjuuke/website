@@ -23,6 +23,7 @@
 - Reader, Come Home by Maryanne Wolf
 - The House in the Cerulean Sea by TJ Klune
 - Fewer, better Things by Glenn Adamson
+- party of one - The Longer's Manifesto by Anneli Rufus
 
 ## Technical
 - The Docker Book by James Turnbull
