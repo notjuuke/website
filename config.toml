@@ -1,4 +1,4 @@
-baseURL = "https://kcasta.com"
+baseURL = "https://juuke.sh"
 title = "Hi, I'm Kev."
 theme = "etch"
 languageCode = "en-US"
@@ -25,16 +25,11 @@ pygmentsUseClasses = true
         url = "/books/"
         weight = 20
     [[menu.main]]
-        idenfitier = "contact"
-        name = "contact"
-        url = "/contact/"
-        weight = 30
-    [[menu.main]]
         identifier = "posts"
         name = "posts"
         title = "posts"
         url = "/"
-        weight = 40
+        weight = 30
 
 [permalinks]
   posts = "/:title/"
